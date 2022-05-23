@@ -51,14 +51,7 @@ height: 200px;
     .smallt {
         font-size: 18px;
     }
-    .btn {
-        /*font-size: 18px;
-        border-style: round;
-        color: white;
-        background-color: #3882F6;
-        width: 20%;*/
-        
-        
+    .btn { 
         outline: none;
         cursor: pointer;
         padding: 0 16px;
@@ -135,8 +128,22 @@ height: 200px;
 }
 
 .signup {
+    display: inline-block;
     margin: 35px;
     height: 30px;
+    outline: none;
+    cursor: pointer;
+    padding: 0 16px;
+    background-color: #0070d2;
+    border-radius: 0.25rem;
+    border: 1px solid #0070d2;
+    color: #fff;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: center;
+    width: 10%;
+
 }
 
 .copy {
