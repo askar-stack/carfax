@@ -4,7 +4,7 @@
 } */
 
 .block1 {
-    background-color: #1F2937;
+    background-color: #1972D2;
     color: #f9faf8;
 }
 .sec1 {
@@ -17,6 +17,7 @@
 .header {
     align-items: flex-start;
     justify-content: flex-start;
+    margin-bottom: 5px;
 }
 
 .nav {
@@ -31,27 +32,28 @@
 }
 
 .hero1 {
-display: flex;
-flex-direction: column;
-width: 300px;
-height: 200px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
 }
 
 .hero2 {
     flex-direction: column;
     width: 300px;
     height: 200px;
-    background-color: grey;
+    background-color: white;
     }
 
     .bigt {
-        font-size: 30px;
+        font-size: 25px;
         font-weight: 800;
+        margin-bottom: 10px;
     }
     .smallt {
         font-size: 14px;
-        margin-top: 4px;
-        margin-bottom: 4px;
+        margin-top: 6px;
+        margin-bottom: 15px;
     }
     .btn { 
         outline: none;
@@ -87,7 +89,7 @@ height: 200px;
 .head4 {
     display: flex;
     justify-content: center;
-    font-size: 36px;
+    font-size: 28px;
     color: #1F2937;
     font-weight: 600;
 }
@@ -99,7 +101,9 @@ height: 200px;
     justify-content: center;
     height: 250px;
     background-color: #E5E7EB;
-    font-size: 36px;
+    font-size: 25px;
+    padding: 10px;
+    font-style: italic;
 }
 
 .quote {
@@ -125,6 +129,7 @@ height: 200px;
    flex-direction: column;
    height: 100px;
    margin: 35px;
+   font-size: 20px;
 }
 
 .signup {
@@ -151,7 +156,7 @@ height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1F2937;
+    background-color: #1972D2;
     color: #f9faf8;
 
     
