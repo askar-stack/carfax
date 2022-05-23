@@ -45,19 +45,21 @@ height: 200px;
     }
 
     .bigt {
-        font-size: 48px;
+        font-size: 30px;
         font-weight: 800;
     }
     .smallt {
-        font-size: 18px;
+        font-size: 14px;
+        margin-top: 4px;
+        margin-bottom: 4px;
     }
     .btn { 
         outline: none;
         cursor: pointer;
         padding: 0 16px;
-        background-color: #0070d2;
+        background-color: #005005;
         border-radius: 0.25rem;
-        border: 1px solid #0070d2;
+        border: 1px solid #005005;
         color: #fff;
         font-size: 15px;
         line-height: 30px;
@@ -116,9 +118,7 @@ height: 200px;
     background-color: #3882F6;
     color:#f9faf8;
 }
-.signup{
-    border: 1px solid white;
-}
+
 
 .action{
    display: flex;
@@ -134,9 +134,9 @@ height: 200px;
     outline: none;
     cursor: pointer;
     padding: 0 16px;
-    background-color: #0070d2;
+    background-color: #005005;
     border-radius: 0.25rem;
-    border: 1px solid #0070d2;
+    border: 1px solid #005005;
     color: #fff;
     font-size: 15px;
     line-height: 30px;
