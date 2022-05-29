@@ -13,4 +13,4 @@ to keep reading a long page of text, even if it is filled with cool designs and 
 
 I used emofrigy to create 2index.html which just converts styles.css to inline css.
 
-The output doesn't look the same (or as great in a few spots) in firefox.
+The output doesn't look the same (or as great in a few spots) in firefox. It also is not the most responsive as the emails I have made with MJML.
